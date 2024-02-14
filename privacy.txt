@@ -4,7 +4,7 @@ Gizlilik Politikası Son güncellenme: 13/02/2024
 
 Güvenliğiniz bizim için önemli. Bu sebeple bizimle paylaşacağınız kişisel verileriz hassasiyetle korunmaktadır.
 
-Biz, Quality Niche Broker, veri sorumlusu olarak, bu gizlilik ve kişisel verilerin korunması politikası ile, hangi kişisel verilerinizin hangi amaçla işleneceği, işlenen verilerin kimlerle ve neden paylaşılabileceği, veri işleme yöntemimiz ve hukuki sebeplerimiz ile; işlenen verilerinize ilişkin haklarınızın neler olduğu hususunda sizleri aydınlatmayı amaçlıyoruz.
+Biz, Ouality  Niche Broker, veri sorumlusu olarak, bu gizlilik ve kişisel verilerin korunması politikası ile, hangi kişisel verilerinizin hangi amaçla işleneceği, işlenen verilerin kimlerle ve neden paylaşılabileceği, veri işleme yöntemimiz ve hukuki sebeplerimiz ile; işlenen verilerinize ilişkin haklarınızın neler olduğu hususunda sizleri aydınlatmayı amaçlıyoruz.
 
 Toplanan Kişisel Verileriniz, Toplanma Yöntemi ve Hukuki Sebebi IP adresiniz ve kullanıcı aracısı bilgileriniz, sadece analiz yapmak amacıyla ve çerezler (cookies) vb. teknolojiler vasıtasıyla, otomatik veya otomatik olmayan yöntemlerle ve bazen de analitik sağlayıcılar, reklam ağları, arama bilgi sağlayıcıları, teknoloji sağlayıcıları gibi üçüncü taraflardan elde edilerek, kaydedilerek, depolanarak ve güncellenerek, aramızdaki hizmet ve sözleşme ilişkisi çerçevesinde ve süresince, meşru menfaat işleme şartına dayanılarak işlenecektir.
 
@@ -25,7 +25,7 @@ Privacy Policy Last updated: 13/02/2024
 
 Your safety is important to us. For this reason, your personal data that you will share with us is sensitively protected.
 
-We, Quality Niche Broker, as the data controller, with this privacy and personal data protection policy, which personal data will be processed for what purpose, with whom and why the processed data can be shared, our data processing method and our legal reasons; We aim to enlighten you about your rights regarding your processed data.
+We, Ouality  Niche Broker, as the data controller, with this privacy and personal data protection policy, which personal data will be processed for what purpose, with whom and why the processed data can be shared, our data processing method and our legal reasons; We aim to enlighten you about your rights regarding your processed data.
 
 Your Personal Data Collected, Collection Method and Legal Reason Your IP address and user agent information are only used for analysis purposes and cookies etc. will be processed by means of technologies, automatic or non-automatic methods and sometimes obtained from third parties such as analytical providers, advertising networks, search information providers, technology providers, recorded, stored and updated, within the framework and duration of the service and contractual relationship between us, on the basis of the legitimate interest processing condition. .
 
