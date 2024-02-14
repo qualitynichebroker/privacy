@@ -16,7 +16,7 @@ Kişisel veri işlenip işlenmediğini öğrenme, Kişisel verileri işlenmişse
 
 İletişim Sizlere hizmet sunabilmek amaçlı analizler yapabilmek için, sadece gerekli olan kişisel verilerinizin, işbu gizlilik ve kişisel verilerin işlenmesi politikası uyarınca işlenmesini, kabul edip etmemek hususunda tamamen özgürsünüz. Siteyi kullanmaya devam ettiğiniz takdirde kabul etmiş olduğunuz tarafımızca varsayılacak olup, daha ayrıntılı bilgi için bizimle  info@deniztraderpro.com e-mail adresi üzerinden iletişime geçmekten lütfen çekinmeyiniz.
 
-Bu gizlilik politikası, QNB Trader  aracılığıyla oluşturulmuştur.
+Bu gizlilik politikası, onb Trader  aracılığıyla oluşturulmuştur.
 
 
 ENGLISH
@@ -37,4 +37,4 @@ Learning whether personal data is processed, Requesting information if personal 
 
 Contact You are completely free to accept or reject the processing of your personal data, which is only necessary, in accordance with this privacy and personal data processing policy, in order to be able to analyze in order to serve you. If you continue to use the site, we will assume that you have accepted it, and for more detailed information, please do not hesitate to contact us via the e-mail address  info@deniztraderpro.com.
 
-This privacy policy was created through  QNB Trader.
+This privacy policy was created through  onb Trader.
